@@ -1,4 +1,4 @@
-GTA V STATIC HTML
+# GTA V STATIC HTML
 
 This project aims to convert the entire "Grand-V" (https://github.com/SebasKitten/Grand-V) project into a single standalone HTML file. This means no more needing "mirror.rar" or downloading multiple separate files to get everything working.
 
