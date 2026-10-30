@@ -7,4 +7,4 @@ The goal is to make the GTA V web port accessible directly through your browser,
 The project is completely open source, meaning anyone can view the code, contribute, suggest improvements, or make their own modifications. Updates and improvements will be released regularly as development continues.
 
 # How do I use this?
-To use this you need a static website hoster, then copy or download this and then host it, and boom done.
+To use this you need a static website hoster, then copy or download [this](https://github.com/Truf-Porter/HTMLgta/blob/main/index.html) and then host it, and boom done.
