@@ -1,6 +1,6 @@
 # GTA V STATIC HTML
 
-This project aims to convert the entire "Grand-V" (https://github.com/SebasKitten/Grand-V) project into a single standalone HTML file. This means no more needing "mirror.rar" or downloading multiple separate files to get everything working.
+This project aims to convert the entire [Grand-V](https://github.com/SebasKitten/Grand-V) project into a single standalone HTML file. This means no more needing "mirror.rar" or downloading multiple separate files to get everything working.
 
 The goal is to make GTA V accessible directly through your browser, with support for GitHub Pages and other static HTML hosting services. Simply host the HTML file and run it without needing a backend server or additional setup.
 
